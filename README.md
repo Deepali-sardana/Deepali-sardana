@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Deepali-sardana/Deepali-sardana/blob/main/image2.png)
 
 <h1 align="center">Hi 👋, I'm Deepali Sardana</h1>
 <h3 align="center">A passionate software developer from India</h3>
